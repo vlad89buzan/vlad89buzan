@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vladyslav Buzan
+- 👋 Hi, I’m Vladyslav Buzan, I'm from Ukraine, Vinnitsya
 - 👀 I’m interested in Frontend Develompent
 
 - 📫 How to reach me work89buzan@gmail.com
