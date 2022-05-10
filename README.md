@@ -10,6 +10,7 @@ online store  </br>
 https://vlad89buzan.github.io/geekful/  </br>
 typical 'one page'  </br>
 https://vlad89buzan.github.io/coffee/  </br>
+https://vlad89buzan.github.io/mizma22/  </br>
 
 An example of a simple and interesting animation in landingpage  </br>
 https://vlad89buzan.github.io/bubbles/  </br>
