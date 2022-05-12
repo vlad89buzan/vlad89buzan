@@ -6,6 +6,7 @@
 Here are typical examples of websites </br>
 
 typical landing page  </br>
+https://vlad89buzan.github.io/guitar/dist/index.html</br>
 https://vlad89buzan.github.io/coffee/  </br>
 https://vlad89buzan.github.io/mizma22/  </br>
 
