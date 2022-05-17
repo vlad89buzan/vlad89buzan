@@ -12,6 +12,7 @@ https://vlad89buzan.github.io/mizma22/  </br>
 
 landigpage with parallax effect</br>
 https://vlad89buzan.github.io/paralax1/dist/
+https://vlad89buzan.github.io/parallax2/dist/
 
 custom registration form  </br>
 https://vlad89buzan.github.io/form/form.html  </br>
