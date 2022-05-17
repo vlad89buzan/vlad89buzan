@@ -10,6 +10,9 @@ https://vlad89buzan.github.io/guitar/dist/index.html</br>
 https://vlad89buzan.github.io/coffee/  </br>
 https://vlad89buzan.github.io/mizma22/  </br>
 
+landigpage with parallax effect</br>
+https://vlad89buzan.github.io/paralax1/dist/
+
 custom registration form  </br>
 https://vlad89buzan.github.io/form/form.html  </br>
 online store  </br>
