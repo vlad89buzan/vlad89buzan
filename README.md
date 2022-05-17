@@ -15,10 +15,14 @@ https://vlad89buzan.github.io/paralax1/dist/
 </br>
 https://vlad89buzan.github.io/parallax2/dist/
 
+landigpage with fadeout video effect</br>
+https://vlad89buzan.github.io/fadeoutvideo/dist/
+</br>
+
 custom registration form  </br>
 https://vlad89buzan.github.io/form/form.html  </br>
-online store  </br>
 
+online store  </br>
 https://vlad89buzan.github.io/geekful/  </br>
 
 An example of a simple and interesting animation in landingpage  </br>
