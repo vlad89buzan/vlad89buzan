@@ -10,12 +10,12 @@ https://vlad89buzan.github.io/guitar/dist/index.html</br>
 https://vlad89buzan.github.io/coffee/  </br>
 https://vlad89buzan.github.io/mizma22/  </br>
 
-landigpage with parallax effect</br>
+landingpage with parallax effect</br>
 https://vlad89buzan.github.io/paralax1/dist/
 </br>
 https://vlad89buzan.github.io/parallax2/dist/
 
-landigpage with fadeout video effect</br>
+landingpage with fadeout video effect</br>
 https://vlad89buzan.github.io/fadeoutvideo/dist/
 </br>
 
