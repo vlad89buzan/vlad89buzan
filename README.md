@@ -29,7 +29,6 @@ An example of a simple and interesting animation in landingpage  </br>
 https://vlad89buzan.github.io/bubbles/  </br>
 Custom sidebar  </br>
 https://vlad89buzan.github.io/sidebar/  </br>
-Simple transition when clicking on the image  </br>
-https://vlad89buzan.github.io/expanding-cards/  </br>
+
 
 
