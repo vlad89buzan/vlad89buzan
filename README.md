@@ -34,6 +34,8 @@ Custom sidebar  </br>
 https://vlad89buzan.github.io/sidebar/  </br>
 Dark Theme  </br>
 https://vlad89buzan.github.io/js/events/examples_event/darktheme.html  </br>
+Box-shadow-generator.html
+https://vlad89buzan.github.io/js/events/examples_event/box-shadow-generator.html </br>
 
 
 
