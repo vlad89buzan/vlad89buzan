@@ -7,6 +7,7 @@ Here are typical examples of websites </br>
 
 typical landing page  </br>
 with Bootstrap</br>
+https://vlad89buzan.github.io/brand/dist/</br>
 https://vlad89buzan.github.io/prixima/dist/</br>
 without Bootstrap</br>
 https://vlad89buzan.github.io/guitar/dist/index.html</br>
