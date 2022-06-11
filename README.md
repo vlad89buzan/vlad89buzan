@@ -10,7 +10,6 @@ with Bootstrap</br>
 https://vlad89buzan.github.io/brand/dist/</br>
 https://vlad89buzan.github.io/prixima/dist/</br>
 without Bootstrap</br>
-https://vlad89buzan.github.io/guitar/dist/index.html</br>
 https://vlad89buzan.github.io/coffee/  </br>
 https://vlad89buzan.github.io/mizma22/  </br>
 
