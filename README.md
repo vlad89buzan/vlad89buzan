@@ -13,10 +13,11 @@ without Bootstrap</br>
 https://vlad89buzan.github.io/coffee/  </br>
 https://vlad89buzan.github.io/mizma22/  </br>
 
-landingpage with fullscreen effect</br>
-https://vlad89buzan.github.io/fullscreen/dist/
-</br>
+custom registration form  </br>
+https://vlad89buzan.github.io/form/form.html  </br>
 
+online store  </br>
+https://vlad89buzan.github.io/geekful/  </br>
 
 landingpage with parallax effect</br>
 https://vlad89buzan.github.io/paralax1/dist/
@@ -27,11 +28,9 @@ landingpage with fadeout video effect</br>
 https://vlad89buzan.github.io/fadeoutvideo/dist/
 </br>
 
-custom registration form  </br>
-https://vlad89buzan.github.io/form/form.html  </br>
-
-online store  </br>
-https://vlad89buzan.github.io/geekful/  </br>
+landingpage with fullscreen effect</br>
+https://vlad89buzan.github.io/fullscreen/dist/
+</br>
 
 An example of a simple and interesting animation in landingpage  </br>
 https://vlad89buzan.github.io/bubbles/  </br>
