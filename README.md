@@ -14,6 +14,11 @@ https://vlad89buzan.github.io/guitar/dist/index.html</br>
 https://vlad89buzan.github.io/coffee/  </br>
 https://vlad89buzan.github.io/mizma22/  </br>
 
+landingpage with fullscreen effect</br>
+https://vlad89buzan.github.io/fullscreen/dist/
+</br>
+
+
 landingpage with parallax effect</br>
 https://vlad89buzan.github.io/paralax1/dist/
 </br>
