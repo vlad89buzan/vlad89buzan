@@ -10,7 +10,7 @@ with Bootstrap</br>
 https://vlad89buzan.github.io/brand/dist/</br>
 https://vlad89buzan.github.io/prixima/dist/</br>
 without Bootstrap</br>
-https://vlad89buzan.github.io/coffeeNew/  </br>
+https://vlad89buzan.github.io/coffeeNew/dist  </br>
 https://vlad89buzan.github.io/mizma22/  </br>
 
 custom registration form  </br>
