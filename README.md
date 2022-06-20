@@ -33,7 +33,8 @@ https://vlad89buzan.github.io/fadeoutvideo/dist/
 </br>
 
 
-
+Random Choice Picker  </br>
+https://vlad89buzan.github.io/Random-Choise-Picker/dist/  </br>
 An example of a simple and interesting animation in landingpage  </br>
 https://vlad89buzan.github.io/bubbles/  </br>
 Custom sidebar  </br>
