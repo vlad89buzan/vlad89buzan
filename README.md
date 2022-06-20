@@ -20,6 +20,10 @@ landingpage with fullscreen effect</br>
 https://vlad89buzan.github.io/fullscreen/dist/
 </br>
 
+tagbox vanila JS</br>
+https://vlad89buzan.github.io/tagBox/dist
+</br>
+
 online store  </br>
 https://vlad89buzan.github.io/geekful/  </br>
 
