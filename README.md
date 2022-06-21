@@ -43,7 +43,7 @@ https://vlad89buzan.github.io/cssAnimation/dist
 
 
 neumorficRadioButtons</br>
-https://vlad89buzan.github.io/neumorficRadioButtons/dis/ </br>
+https://vlad89buzan.github.io/neumorficRadioButtons/dist/ </br>
 Random Choice Picker  </br>
 https://vlad89buzan.github.io/RandomChoicePicker/dist  </br>
 An example of a simple and interesting animation in landingpage  </br>
