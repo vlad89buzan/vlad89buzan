@@ -24,6 +24,9 @@ tagbox vanila JS</br>
 https://vlad89buzan.github.io/tagBox/dist
 </br>
 
+WavyText</br>
+https://vlad89buzan.github.io/wavytext/dist </br>
+
 online store  </br>
 https://vlad89buzan.github.io/geekful/  </br>
 
