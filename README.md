@@ -39,7 +39,9 @@ landingpage with fadeout video effect</br>
 https://vlad89buzan.github.io/fadeoutvideo/dist/
 </br>
 cssAnimation</br>
-https://vlad89buzan.github.io/cssAnimation/dist    
+https://vlad89buzan.github.io/cssAnimation/dist 
+AnimatedNav</br>
+https://vlad89buzan.github.io/animatedNav/dist  
 
 
 neumorficRadioButtons</br>
