@@ -42,7 +42,7 @@ cssAnimation</br>
 https://vlad89buzan.github.io/cssAnimation/dist 
 AnimatedNav</br>
 https://vlad89buzan.github.io/animatedNav/dist  
-Incremental Counter
+Incremental Counter</br>
 https://vlad89buzan.github.io/incremental__counter/dist <br/>
 neumorficRadioButtons</br>
 https://vlad89buzan.github.io/neumorficRadioButtons/dist/ </br>
