@@ -55,7 +55,7 @@ https://vlad89buzan.github.io/sidebar/  </br>
 Dark Theme  </br>
 https://vlad89buzan.github.io/js/events/examples_event/darktheme.html  </br>
 Dram Machine </br>
-https://vlad89buzan.github.io/js/jqueryToVanilLaJS/practice__dram/
+https://vlad89buzan.github.io/js/jqueryToVanilllaJS/practice__dram/
 
 
 
