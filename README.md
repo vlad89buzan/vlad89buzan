@@ -56,6 +56,7 @@ Dark Theme  </br>
 https://vlad89buzan.github.io/js/events/examples_event/darktheme.html  </br>
 Dram Machine </br>
 https://vlad89buzan.github.io/js//jqueryToVanillaJS/practice__dram/
-
+One modal for three items
+https://vlad89buzan.github.io/js//jqueryToVanillaJS/practice__modal/
 
 
