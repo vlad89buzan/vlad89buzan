@@ -16,6 +16,10 @@ https://vlad89buzan.github.io/mizma22/  </br>
 custom registration form  </br>
 https://vlad89buzan.github.io/form/form.html  </br>
 
+movieAPI </br>
+https://vlad89buzan.github.io/movie__API/dist/ </>
+
+
 landingpage with fullscreen effect</br>
 https://vlad89buzan.github.io/fullscreen/dist/
 </br>
