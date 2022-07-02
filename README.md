@@ -15,7 +15,7 @@ https://vlad89buzan.github.io/coffeeNew/dist  </br>
 https://vlad89buzan.github.io/mizma22/  </br>
 
 online store  </br>
-https://vlad89buzan.github.io/Furniture2022/dist/
+https://vlad89buzan.github.io/Furniture2022/dist/ </br>
 https://vlad89buzan.github.io/geekful/  </br>
 
 custom registration form  </br>
