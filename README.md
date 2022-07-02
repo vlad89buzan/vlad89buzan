@@ -46,7 +46,9 @@ https://vlad89buzan.github.io/parallax2/dist/
 landingpage with fadeout video effect</br>
 https://vlad89buzan.github.io/fadeoutvideo/dist/
 </br>
+
 cssAnimation</br>
+https://vlad89buzan.github.io/animation/cube/dist/
 https://vlad89buzan.github.io/cssAnimation/dist </br>
 AnimatedNav</br>
 https://vlad89buzan.github.io/animatedNav/dist  </br>
