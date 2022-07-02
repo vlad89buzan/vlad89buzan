@@ -24,19 +24,20 @@ https://vlad89buzan.github.io/form/form.html  </br>
 movieAPI </br>
 https://vlad89buzan.github.io/movie__API/dist/ </>
 
-
-landingpage with fullscreen effect</br>
-https://vlad89buzan.github.io/fullscreen/dist/
-</br>
-
 tagbox vanila JS</br>
 https://vlad89buzan.github.io/tagBox/dist
 </br>
 
+cssAnimation</br>
+https://vlad89buzan.github.io/animation/cube/dist/
+https://vlad89buzan.github.io/cssAnimation/dist </br>
+
 WavyText</br>
 https://vlad89buzan.github.io/wavytext/dist </br>
 
-
+landingpage with fullscreen effect</br>
+https://vlad89buzan.github.io/fullscreen/dist/
+</br>
 
 landingpage with parallax effect</br>
 https://vlad89buzan.github.io/paralax1/dist/
