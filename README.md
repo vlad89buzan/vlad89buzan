@@ -9,9 +9,14 @@ typical landing page  </br>
 with Bootstrap</br>
 https://vlad89buzan.github.io/brand/dist/</br>
 https://vlad89buzan.github.io/prixima/dist/</br>
+
 without Bootstrap</br>
 https://vlad89buzan.github.io/coffeeNew/dist  </br>
 https://vlad89buzan.github.io/mizma22/  </br>
+
+online store  </br>
+https://vlad89buzan.github.io/Furniture2022/dist/
+https://vlad89buzan.github.io/geekful/  </br>
 
 custom registration form  </br>
 https://vlad89buzan.github.io/form/form.html  </br>
@@ -31,8 +36,7 @@ https://vlad89buzan.github.io/tagBox/dist
 WavyText</br>
 https://vlad89buzan.github.io/wavytext/dist </br>
 
-online store  </br>
-https://vlad89buzan.github.io/geekful/  </br>
+
 
 landingpage with parallax effect</br>
 https://vlad89buzan.github.io/paralax1/dist/
