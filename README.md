@@ -29,7 +29,7 @@ https://vlad89buzan.github.io/tagBox/dist
 </br>
 
 cssAnimation</br>
-https://vlad89buzan.github.io/animation/cube/dist/
+https://vlad89buzan.github.io/animation/cube/dist/ </br>
 https://vlad89buzan.github.io/cssAnimation/dist </br>
 
 WavyText</br>
