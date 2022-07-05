@@ -30,6 +30,8 @@ tagbox vanila JS</br>
 https://vlad89buzan.github.io/tagBox/dist
 </br>
 
+clock with svg animation </br>
+https://vlad89buzan.github.io/clock/dist/</br>
 cssAnimation</br>
 https://vlad89buzan.github.io/animation/cube/dist/ </br>
 https://vlad89buzan.github.io/cssAnimation/dist </br>
