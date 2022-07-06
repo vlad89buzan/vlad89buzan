@@ -3,7 +3,7 @@
 
 - 📫 How to reach me work89buzan@gmail.com
 
--    HTML,CSS,Javascript,Bootstrap,SCSS,Gulp,Webpack,Git,BEM,Figma
+-    HTML, CSS , Javascript, Bootstrap, SCSS, Gulp, Webpack, Git, BEM, Figma
 
 Here are typical examples of websites </br>
 
