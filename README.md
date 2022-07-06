@@ -24,7 +24,7 @@ custom registration form  </br>
 https://vlad89buzan.github.io/form/form.html  </br>
 
 movieAPI </br>
-https://vlad89buzan.github.io/movie__API/dist/ </>
+https://vlad89buzan.github.io/movie__API/dist/ </br>
 
 tagbox vanila JS</br>
 https://vlad89buzan.github.io/tagBox/dist
