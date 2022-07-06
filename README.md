@@ -38,6 +38,7 @@ https://vlad89buzan.github.io/animation/starry__night/dist/index.html
 https://vlad89buzan.github.io/animation/dropImageAnimation/dist/index.html </br>
 https://vlad89buzan.github.io/animation/cube/dist/ </br>
 https://vlad89buzan.github.io/cssAnimation/dist </br>
+https://vlad89buzan.github.io/bubbles/ </br>
 
 WavyText</br>
 https://vlad89buzan.github.io/wavytext/dist </br>
@@ -55,26 +56,24 @@ landingpage with fadeout video effect</br>
 https://vlad89buzan.github.io/fadeoutvideo/dist/
 </br>
 
-cssAnimation</br>
-https://vlad89buzan.github.io/animation/cube/dist/
-https://vlad89buzan.github.io/cssAnimation/dist </br>
-AnimatedNav</br>
-https://vlad89buzan.github.io/animatedNav/dist  </br>
 Incremental Counter</br>
 https://vlad89buzan.github.io/incremental__counter/dist <br/>
+
 neumorficRadioButtons</br>
 https://vlad89buzan.github.io/neumorficRadioButtons/dist/ </br>
+
 Random Choice Picker  </br>
 https://vlad89buzan.github.io/RandomChoicePicker/dist  </br>
-An example of a simple and interesting animation in landingpage  </br>
-https://vlad89buzan.github.io/bubbles/  </br>
+
 Custom sidebar  </br>
 https://vlad89buzan.github.io/sidebar/  </br>
+
 Dark Theme  </br>
 https://vlad89buzan.github.io/js/events/examples_event/darktheme.html  </br>
+
 Dram Machine </br>
 https://vlad89buzan.github.io/js//jqueryToVanillaJS/practice__dram/ </br>
-One modal for three items </br>
-https://vlad89buzan.github.io/js//jqueryToVanillaJS/practice__modal/ </br>
+
+
 
 
