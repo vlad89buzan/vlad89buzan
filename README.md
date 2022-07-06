@@ -33,7 +33,9 @@ https://vlad89buzan.github.io/tagBox/dist
 clock with svg animation </br>
 https://vlad89buzan.github.io/clock/dist/</br>
 
-cssAnimation</br>
+Animation</br>
+https://vlad89buzan.github.io/animation/starry__night/dist/index.html
+https://vlad89buzan.github.io/animation/dropImageAnimation/dist/index.html </br>
 https://vlad89buzan.github.io/animation/cube/dist/ </br>
 https://vlad89buzan.github.io/cssAnimation/dist </br>
 
