@@ -62,6 +62,9 @@ https://vlad89buzan.github.io/incremental__counter/dist <br/>
 neumorficRadioButtons</br>
 https://vlad89buzan.github.io/neumorficRadioButtons/dist/ </br>
 
+BackgroundSlider </br>
+https://vlad89buzan.github.io/backgroundSlider/dist/
+
 Random Choice Picker  </br>
 https://vlad89buzan.github.io/RandomChoicePicker/dist  </br>
 
