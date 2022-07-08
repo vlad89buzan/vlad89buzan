@@ -38,6 +38,7 @@ https://vlad89buzan.github.io/animation/starry__night/dist/index.html  </br>
 https://vlad89buzan.github.io/animation/cube/dist/ </br>
 https://vlad89buzan.github.io/animation/tornadoImageAnimation/dist/index.html </br>
 https://vlad89buzan.github.io/animation/AnimateOnScrool/dist/index.html </br>
+https://vlad89buzan.github.io/animation/lVideoOnSrrool/dist/index.html </br>
 https://vlad89buzan.github.io/bubbles/ </br>
 
 WavyText</br>
