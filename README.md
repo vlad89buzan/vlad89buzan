@@ -34,7 +34,7 @@ clock with svg animation </br>
 https://vlad89buzan.github.io/clock/dist/</br>
 
 Animation</br>
-https://vlad89buzan.github.io/animation/starry__night/dist/index.html
+https://vlad89buzan.github.io/animation/starry__night/dist/index.html  </br>
 https://vlad89buzan.github.io/animation/cube/dist/ </br>
 https://vlad89buzan.github.io/animation/tornadoImageAnimation/dist/index.html </br>
 https://vlad89buzan.github.io/animation/AnimateOnScrool/dist/index.html </br>
