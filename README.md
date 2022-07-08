@@ -35,11 +35,8 @@ https://vlad89buzan.github.io/clock/dist/</br>
 
 Animation</br>
 https://vlad89buzan.github.io/animation/starry__night/dist/index.html
-https://vlad89buzan.github.io/animation/dropImageAnimation/dist/index.html </br>
-https://vlad89buzan.github.io/animation/rainImageAnimation/dist/index.html </br>
 https://vlad89buzan.github.io/animation/tornadoImageAnimation/dist/index.html </br>
 https://vlad89buzan.github.io/animation/cube/dist/ </br>
-https://vlad89buzan.github.io/cssAnimation/dist </br>
 https://vlad89buzan.github.io/bubbles/ </br>
 
 WavyText</br>
