@@ -44,6 +44,9 @@ https://vlad89buzan.github.io/animation/AnimateOnScrool/dist/index.html </br>
 https://vlad89buzan.github.io/animation/VideoOnSrrool/dist/index.html </br>
 https://vlad89buzan.github.io/bubbles/ </br>
 
+Games</br>
+https://vlad89buzan.github.io/games/arkanoid/dist/</br>
+
 WavyText</br>
 https://vlad89buzan.github.io/wavytext/dist </br>
 
