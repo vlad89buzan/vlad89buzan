@@ -23,6 +23,7 @@ https://vlad89buzan.github.io/geekful/  </br>
 addJsFunctionality</br>
 https://vlad89buzan.github.io/addJsFunctionality/Project1/dist/ </br>
 https://vlad89buzan.github.io/addJsFunctionality/Project2/Source/dist/ </br>
+https://vlad89buzan.github.io/addJsFunctionality/Project3/dist/ </br>
 
 custom registration form  </br>
 https://vlad89buzan.github.io/form/form.html  </br>
